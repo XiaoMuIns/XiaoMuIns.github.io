@@ -5,7 +5,7 @@
     <entry>
       <title><![CDATA[看·月·亮]]></title>
       <url>/2017/04/15/%E7%9C%8B%C2%B7%E6%9C%88%C2%B7%E4%BA%AE/</url>
-      <content type="html"><![CDATA[<p>·<br><a id="more"></a></p>
+      <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>·<br><a id="more"></a></p>
 <img src="/2017/04/15/看·月·亮/1.png" alt="1.png" title="">
 <p>◦「陪我說話。」把頭枕在小木的大腿上，她说。</p>
 <p>•「嗯？」</p>
@@ -40,7 +40,7 @@
     <entry>
       <title><![CDATA[我·和·你]]></title>
       <url>/2017/04/15/%E6%88%91%C2%B7%E5%92%8C%C2%B7%E4%BD%A0/</url>
-      <content type="html"><![CDATA[<p>·<br><a id="more"></a><br><img src="/2017/04/15/我·和·你/2.png" alt="2.png" title=""></p>
+      <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>·<br><a id="more"></a><br><img src="/2017/04/15/我·和·你/2.png" alt="2.png" title=""></p>
 <ul>
 <li>小木第一次見機器人的短信，便覺得她身上有一種似曾相識的傻氣，她的message很可愛，可能是用了諸如“哦”“！”等能夠表達語氣的詞或者符號，仿佛可以看到她在打字時的笑臉；或者是她說她是“智能機器人”的時候小木心裡一抽，這種傻氣，小木曾經在一個她很喜歡的女孩身上看過，而且還是在召喚師峽谷里。</li>
 <li>之後他撥通了電話，又掛掉了，大概是覺得自己也很傻吧。</li>
@@ -59,7 +59,7 @@
     <entry>
       <title><![CDATA[在vps上面安装softether]]></title>
       <url>/2017/04/15/%E5%9C%A8vps%E4%B8%8A%E9%9D%A2%E5%AE%89%E8%A3%85softether/</url>
-      <content type="html"></content>
+      <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script>]]></content>
       
         
         <tags>
@@ -75,7 +75,7 @@
     <entry>
       <title><![CDATA[在路由器里安装softether]]></title>
       <url>/2017/04/15/%E5%9C%A8%E8%B7%AF%E7%94%B1%E5%99%A8%E9%87%8C%E5%AE%89%E8%A3%85softether/</url>
-      <content type="html"><![CDATA[<p>.</p>
+      <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>.</p>
 <a id="more"></a>
 <p>折腾理由：因为我的学校的ipv6是免费用的，所以想在路由器上面搭建一个softether客户端来代替我的电脑，让路由器去连接我在搬瓦工买的vps上面的softether服务端，这样就能既有翻墙wifi又不需要电脑拨号了</p>
 <p>准备工作：</p>
@@ -121,7 +121,7 @@
     <entry>
       <title><![CDATA[subline text3 中输入法光标不跟随移动解决办法]]></title>
       <url>/2017/04/15/subline/</url>
-      <content type="html"><![CDATA[<p>.<br><a id="more"></a></p>
+      <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>.<br><a id="more"></a></p>
 <ul>
 <li><p>解决办法1：在Subline输入状态下切换第三方输入法敲一下字，再切换微软输入法即刻生效，但软件重启失效。</p>
 </li>
@@ -142,11 +142,7 @@
     <entry>
       <title><![CDATA[投喂]]></title>
       <url>/2017/01/01/%E6%8A%95%E5%96%82/</url>
-      <content type="html"><![CDATA[<p>.<br><a id="more"></a></p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="http://music.163.com/outchain/player?type=2&id=28285910&auto=1&height=66"></iframe>
-
-
-
+      <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>.<br><a id="more"></a></p>
 <img src="/2017/01/01/投喂/1.jpg" alt="1.jpg" title="">
 <img src="/2017/01/01/投喂/2.png" alt="2.png" title="">]]></content>
       
@@ -157,34 +153,34 @@
   
     
     <entry>
-      <title><![CDATA[categories]]></title>
-      <url>/categories/index.html</url>
-      <content type="html"></content>
-    </entry>
-    
-    <entry>
       <title><![CDATA[小木是什么鬼]]></title>
       <url>/about/index.html</url>
-      <content type="html"></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[音乐]]></title>
-      <url>/%E9%9F%B3%E4%B9%90/index.html</url>
-      <content type="html"></content>
+      <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script>]]></content>
     </entry>
     
     <entry>
       <title><![CDATA[tags]]></title>
       <url>/tags/index.html</url>
-      <content type="html"><![CDATA[<p><a href="/tags/subline/">subline</a></p>
+      <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p><a href="/tags/subline/">subline</a></p>
 ]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[categories]]></title>
+      <url>/categories/index.html</url>
+      <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script>]]></content>
     </entry>
     
     <entry>
       <title><![CDATA[投喂]]></title>
       <url>/%E6%8A%95%E5%96%82/index.html</url>
-      <content type="html"></content>
+      <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script>]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[音乐]]></title>
+      <url>/%E9%9F%B3%E4%B9%90/index.html</url>
+      <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script>]]></content>
     </entry>
     
   
