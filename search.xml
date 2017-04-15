@@ -115,25 +115,25 @@
     
     <entry>
       <title><![CDATA[about]]></title>
-      <url>/about/index-1.html</url>
-      <content type="html"></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[categories]]></title>
-      <url>/categories/index.html</url>
+      <url>/about/index.html</url>
       <content type="html"></content>
     </entry>
     
     <entry>
       <title><![CDATA[about]]></title>
-      <url>/about/index.html</url>
+      <url>/about/index-1.html</url>
       <content type="html"></content>
     </entry>
     
     <entry>
       <title><![CDATA[abo]]></title>
       <url>/abo/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[categories]]></title>
+      <url>/categories/index.html</url>
       <content type="html"></content>
     </entry>
     
