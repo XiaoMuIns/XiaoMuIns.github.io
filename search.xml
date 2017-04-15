@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+    
+    <entry>
+      <title><![CDATA[我·和·你]]></title>
+      <url>/2017/04/15/%E6%88%91%C2%B7%E5%92%8C%C2%B7%E4%BD%A0/</url>
+      <content type="html"><![CDATA[<p>.<br><a id="more"></a></p>
+<ul>
+<li>小木第一次見機器人的短信，便覺得她身上有一種似曾相識的傻氣，她的message很可愛，可能是用了諸如“哦”“！”等能夠表達語氣的詞或者符號，仿佛可以看到她在打字時的笑臉；或者是她說她是“智能機器人”的時候小木心裡一抽，這種傻氣，小木曾經在一個她很喜歡的女孩身上看過，而且還是在召喚師峽谷里。</li>
+<li>之後他撥通了電話，又掛掉了，大概是覺得自己也很傻吧。</li>
+</ul>
+]]></content>
+      
+        
+        <tags>
+            
+            <tag> 小木的日常 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[在vps上面安装softether]]></title>
+      <url>/2017/04/15/%E5%9C%A8vps%E4%B8%8A%E9%9D%A2%E5%AE%89%E8%A3%85softether/</url>
+      <content type="html"></content>
+      
+        
+        <tags>
+            
+            <tag> softether </tag>
+            
+            <tag> ipv6 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[在路由器里安装softether]]></title>
+      <url>/2017/04/15/%E5%9C%A8%E8%B7%AF%E7%94%B1%E5%99%A8%E9%87%8C%E5%AE%89%E8%A3%85softether/</url>
+      <content type="html"><![CDATA[<p>.</p>
+<a id="more"></a>
+<p>折腾理由：因为我的学校的ipv6是免费用的，所以想在路由器上面搭建一个softether客户端来代替我的电脑，让路由器去连接我在搬瓦工买的vps上面的softether服务端，这样就能既有翻墙wifi又不需要电脑拨号了</p>
+<p>准备工作：</p>
+<ul>
+<li>一个芯片最好是ar71xx的openwrt路由器（闪存与内存足够大，推荐网件3800）</li>
+<li>准备好softether的依赖环境（依赖包可在openwrt官网下载）</li>
+<li>ssh软件以及scp软件（推荐putty和winscp）</li>
+</ul>
+<p>开始：</p>
+<ul>
+<li>softether不完全依赖包 (实际情况下有可能比这里少也有可能比这里多)<img src="/2017/04/15/在路由器里安装softether/1.png" alt="1.png" title=""></li>
+<li>上面图片里的softethervpn.ipk 是自己编译的，如有需要欢迎联系我</li>
+<li>使用winscp软件将ipk文件传输到路由器的tmp文件夹</li>
+<li>使用putty命令行进行ipk文件的安装</li>
+<li>安装完了之后：<ul>
+<li>主要会有以下三条命令行：<ul>
+<li>/usr/bin/env LANG=en_US.UTF-8 /usr/bin/vpnserver start  (启动服务端)</li>
+<li>/usr/bin/env LANG=en_US.UTF-8 /usr/bin/vpnclient start  (启动客户端)</li>
+<li>/usr/bin/env LANG=en_US.UTF-8 /usr/bin/vpncmd  (启动cmd)</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>本文未完，等我有空再补坑。(〃’▽’〃)</li>
+</ul>
+]]></content>
+      
+        
+        <tags>
+            
+            <tag> softether </tag>
+            
+            <tag> ipv6 </tag>
+            
+            <tag> openwrt </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[subline text3 中输入法光标不跟随移动解决办法]]></title>
+      <url>/2017/04/15/subline/</url>
+      <content type="html"><![CDATA[<p>.<br><a id="more"></a></p>
+<ul>
+<li><p>解决办法1：在Subline输入状态下切换第三方输入法敲一下字，再切换微软输入法即刻生效，但软件重启失效。</p>
+</li>
+<li><p>解决办法2：安装imesupport</p>
+</li>
+</ul>
+]]></content>
+      
+        
+        <tags>
+            
+            <tag> subline </tag>
+            
+        </tags>
+        
+    </entry>
+    
+  
+  
+</search>
