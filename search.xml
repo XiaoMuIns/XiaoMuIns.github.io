@@ -153,8 +153,14 @@
   
     
     <entry>
-      <title><![CDATA[投喂]]></title>
-      <url>/%E6%8A%95%E5%96%82/index.html</url>
+      <title><![CDATA[小木是什么鬼]]></title>
+      <url>/about/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[categories]]></title>
+      <url>/categories/index.html</url>
       <content type="html"></content>
     </entry>
     
@@ -166,14 +172,8 @@
     </entry>
     
     <entry>
-      <title><![CDATA[小木是什么鬼]]></title>
-      <url>/about/index.html</url>
-      <content type="html"></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[categories]]></title>
-      <url>/categories/index.html</url>
+      <title><![CDATA[投喂]]></title>
+      <url>/%E6%8A%95%E5%96%82/index.html</url>
       <content type="html"></content>
     </entry>
     
