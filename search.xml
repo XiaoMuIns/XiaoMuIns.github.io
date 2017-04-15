@@ -153,14 +153,14 @@
   
     
     <entry>
-      <title><![CDATA[小木是什么鬼]]></title>
-      <url>/about/index.html</url>
+      <title><![CDATA[categories]]></title>
+      <url>/categories/index.html</url>
       <content type="html"></content>
     </entry>
     
     <entry>
-      <title><![CDATA[categories]]></title>
-      <url>/categories/index.html</url>
+      <title><![CDATA[小木是什么鬼]]></title>
+      <url>/about/index.html</url>
       <content type="html"></content>
     </entry>
     
@@ -171,16 +171,16 @@
     </entry>
     
     <entry>
+      <title><![CDATA[音乐]]></title>
+      <url>/%E9%9F%B3%E4%B9%90/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[tags]]></title>
       <url>/tags/index.html</url>
       <content type="html"><![CDATA[<p><a href="/tags/subline/">subline</a></p>
 ]]></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[音乐]]></title>
-      <url>/%E9%9F%B3%E4%B9%90/index.html</url>
-      <content type="html"></content>
     </entry>
     
   
