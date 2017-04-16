@@ -3,6 +3,54 @@
   
     
     <entry>
+      <title><![CDATA[安装破解dreamweaver_cs6]]></title>
+      <url>/2017/04/16/%E5%AE%89%E8%A3%85%E7%A0%B4%E8%A7%A3dreamweaver-cs6/</url>
+      <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><ol>
+<li><p>工具：windows电脑，原版安装包，破解补丁</p>
+</li>
+<li><p>过程：</p>
+</li>
+</ol>
+<pre><code>1.  首先使用原版文件进行安装，然后到这里的时候先断开网络，再点击试用 
+</code></pre><img src="/2017/04/16/安装破解dreamweaver-cs6/1.png" alt="1.png" title="">
+<pre><code>2.  由于我们断开了网络，他会提示无法连接internet，然后我们选择“稍后再试”
+
+
+3.  继续安装（可能会花费较长时间）
+
+
+4.  安装完成后，点击“立即启动”（为了保证功能齐全）
+
+
+5.  点击“继续试用”，然后关闭软件。
+
+
+6.  进入软件的安装目录，找到amtlib.dll，把这个文件改名为amtlib.dll.bak 
+
+
+7.  把从破解补丁压缩包里面解压出来的amtlib.dll复制到刚刚的位置
+
+
+8.  重启电脑
+
+
+9.  打开软件，会发现已经注册成功（变为灰色即为成功）
+</code></pre><img src="/2017/04/16/安装破解dreamweaver-cs6/2.png" alt="2.png" title="">
+<p>声明：破解补丁与本人无关，本破解教程仅供学习和技术交流使用，不得用于任何商业用途，请大家支持正版。</p>
+]]></content>
+      
+        
+        <tags>
+            
+            <tag> 网页设计 </tag>
+            
+            <tag> 安装破解 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[提拉米苏]]></title>
       <url>/2017/04/16/%E6%8F%90%E6%8B%89%E7%B1%B3%E8%8B%8F/</url>
       <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>小木最近总是很容易想起以前，现在才20岁的人，就开始回忆人生了。我自己是不是有点闲？小木甩了甩头。</p>
@@ -14,9 +62,9 @@
         
         <tags>
             
-            <tag> 小说 </tag>
-            
             <tag> 小木的日常 </tag>
+            
+            <tag> 小说 </tag>
             
         </tags>
         
@@ -50,9 +98,9 @@
         
         <tags>
             
-            <tag> 小说 </tag>
-            
             <tag> 小木的日常 </tag>
+            
+            <tag> 小说 </tag>
             
         </tags>
         
@@ -71,9 +119,9 @@
         
         <tags>
             
-            <tag> 小说 </tag>
-            
             <tag> 小木的日常 </tag>
+            
+            <tag> 小说 </tag>
             
         </tags>
         
@@ -99,7 +147,6 @@
       <title><![CDATA[在路由器里安装softether]]></title>
       <url>/2017/04/15/%E5%9C%A8%E8%B7%AF%E7%94%B1%E5%99%A8%E9%87%8C%E5%AE%89%E8%A3%85softether/</url>
       <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>.</p>
-<a id="more"></a>
 <p>折腾理由：因为我的学校的ipv6是免费用的，所以想在路由器上面搭建一个softether客户端来代替我的电脑，让路由器去连接我在搬瓦工买的vps上面的softether服务端，这样就能既有翻墙wifi又不需要电脑拨号了</p>
 <p>准备工作：</p>
 <ul>
@@ -181,12 +228,6 @@
     </entry>
     
     <entry>
-      <title><![CDATA[投喂]]></title>
-      <url>/%E6%8A%95%E5%96%82/index.html</url>
-      <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script>]]></content>
-    </entry>
-    
-    <entry>
       <title><![CDATA[categories]]></title>
       <url>/categories/index.html</url>
       <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script>]]></content>
@@ -195,6 +236,12 @@
     <entry>
       <title><![CDATA[音乐]]></title>
       <url>/%E9%9F%B3%E4%B9%90/index.html</url>
+      <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script>]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[投喂]]></title>
+      <url>/%E6%8A%95%E5%96%82/index.html</url>
       <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script>]]></content>
     </entry>
     
