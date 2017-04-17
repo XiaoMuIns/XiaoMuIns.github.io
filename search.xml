@@ -246,14 +246,14 @@
     </entry>
     
     <entry>
-      <title><![CDATA[投喂]]></title>
-      <url>/%E6%8A%95%E5%96%82/index.html</url>
+      <title><![CDATA[categories]]></title>
+      <url>/categories/index.html</url>
       <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script>]]></content>
     </entry>
     
     <entry>
-      <title><![CDATA[categories]]></title>
-      <url>/categories/index.html</url>
+      <title><![CDATA[投喂]]></title>
+      <url>/%E6%8A%95%E5%96%82/index.html</url>
       <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script>]]></content>
     </entry>
     
