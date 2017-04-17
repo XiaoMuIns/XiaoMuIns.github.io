@@ -43,7 +43,7 @@
 <li>通常分一到两个扩展分区就好，根目录下文件夹尽量少，比如：inbox、文档、娱乐、软件、图片。二级目录也尽量少，这样便于快速找到目标。</li>
 <li>学习TotalCommander这样的工具，提高效率。       </li>
 <li>合理命名，使用Everything来搜索。使用时间和内容组合命名，比如：20130926发给小王的销售计划.doc，这样搜索起来会很方便，当然这样的文件归档到合适的位置，也可以快速找到。        </li>
-<li>桌面整洁(这是我的桌面，我不喜欢看到一堆快捷方式或者文件在我的桌面，嘻嘻)<img src="/2017/04/17/如何整理硬盘里的资料/1.png" alt="1.png" title=""></li>
+<li>桌面整洁(这是我的桌面，我不喜欢看到一堆快捷方式或者文件在我的桌面，嘻嘻)<img src="/2017/04/17/如何整理硬盘里的资料/桌面.png" alt="桌面.png" title=""></li>
 <li>重要的或者需要多个设备协同的文件，绑定云盘。</li>
 </ul>
 </li>
@@ -305,14 +305,14 @@
     </entry>
     
     <entry>
-      <title><![CDATA[音乐]]></title>
-      <url>/%E9%9F%B3%E4%B9%90/index.html</url>
+      <title><![CDATA[投喂]]></title>
+      <url>/%E6%8A%95%E5%96%82/index.html</url>
       <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script>]]></content>
     </entry>
     
     <entry>
-      <title><![CDATA[投喂]]></title>
-      <url>/%E6%8A%95%E5%96%82/index.html</url>
+      <title><![CDATA[音乐]]></title>
+      <url>/%E9%9F%B3%E4%B9%90/index.html</url>
       <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script>]]></content>
     </entry>
     
