@@ -3,6 +3,31 @@
   
     
     <entry>
+      <title><![CDATA[在html中显示html标签源码]]></title>
+      <url>/2017/04/23/%E5%9C%A8html%E4%B8%AD%E6%98%BE%E7%A4%BAhtml%E6%A0%87%E7%AD%BE%E6%BA%90%E7%A0%81/</url>
+      <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>在需要显示的代码中间加上<code>&lt;xmp&gt;</code>标签即可</p>
+<figure class="highlight html"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="tag">&lt;<span class="name">xmp</span>&gt;</span>  <span class="tag">&lt;<span class="name">style</span> <span class="attr">type</span>=<span class="string">"text/css"</span>&gt;</span><span class="undefined"></span><span class="tag">&lt;/<span class="name">style</span>&gt;</span>  <span class="tag">&lt;/<span class="name">xmp</span>&gt;</span></div></pre></td></tr></table></figure>
+<p>显示效果为<br><img src="/2017/04/23/在html中显示html标签源码/1.png" alt="1.png" title=""></p>
+]]></content>
+      
+        
+        <tags>
+            
+            <tag> html </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[解决windows10用自带快捷键启动程序极慢的bug]]></title>
+      <url>/2017/04/17/%E8%A7%A3%E5%86%B3windows10%E7%94%A8%E8%87%AA%E5%B8%A6%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%90%AF%E5%8A%A8%E7%A8%8B%E5%BA%8F%E6%9E%81%E6%85%A2%E7%9A%84bug/</url>
+      <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script>]]></content>
+      
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[3]]></title>
       <url>/2017/04/17/3/</url>
       <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script>]]></content>
@@ -183,9 +208,9 @@
         
         <tags>
             
-            <tag> 小木的日常 </tag>
-            
             <tag> 小说 </tag>
+            
+            <tag> 小木的日常 </tag>
             
         </tags>
         
@@ -219,9 +244,9 @@
         
         <tags>
             
-            <tag> 小木的日常 </tag>
-            
             <tag> 小说 </tag>
+            
+            <tag> 小木的日常 </tag>
             
         </tags>
         
@@ -240,9 +265,9 @@
         
         <tags>
             
-            <tag> 小木的日常 </tag>
-            
             <tag> 小说 </tag>
+            
+            <tag> 小木的日常 </tag>
             
         </tags>
         
@@ -349,8 +374,8 @@
     </entry>
     
     <entry>
-      <title><![CDATA[音乐]]></title>
-      <url>/%E9%9F%B3%E4%B9%90/index.html</url>
+      <title><![CDATA[categories]]></title>
+      <url>/categories/index.html</url>
       <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script>]]></content>
     </entry>
     
@@ -361,8 +386,8 @@
     </entry>
     
     <entry>
-      <title><![CDATA[categories]]></title>
-      <url>/categories/index.html</url>
+      <title><![CDATA[音乐]]></title>
+      <url>/%E9%9F%B3%E4%B9%90/index.html</url>
       <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script>]]></content>
     </entry>
     
