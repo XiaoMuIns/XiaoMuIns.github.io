@@ -5,7 +5,7 @@
     <entry>
       <title><![CDATA[在html中显示html标签源码]]></title>
       <url>/2017/04/23/%E5%9C%A8html%E4%B8%AD%E6%98%BE%E7%A4%BAhtml%E6%A0%87%E7%AD%BE%E6%BA%90%E7%A0%81/</url>
-      <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>在需要显示的代码中间加上<code>&lt;xmp&gt;</code>标签即可</p>
+      <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>在需要显示的代码两边加上<code>&lt;xmp&gt;</code>标签即可</p>
 <figure class="highlight html"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="tag">&lt;<span class="name">xmp</span>&gt;</span>  <span class="tag">&lt;<span class="name">style</span> <span class="attr">type</span>=<span class="string">"text/css"</span>&gt;</span><span class="undefined"></span><span class="tag">&lt;/<span class="name">style</span>&gt;</span>  <span class="tag">&lt;/<span class="name">xmp</span>&gt;</span></div></pre></td></tr></table></figure>
 <p>显示效果为<br><img src="/2017/04/23/在html中显示html标签源码/1.png" alt="1.png" title=""></p>
 ]]></content>
@@ -208,9 +208,9 @@
         
         <tags>
             
-            <tag> 小说 </tag>
-            
             <tag> 小木的日常 </tag>
+            
+            <tag> 小说 </tag>
             
         </tags>
         
@@ -244,9 +244,9 @@
         
         <tags>
             
-            <tag> 小说 </tag>
-            
             <tag> 小木的日常 </tag>
+            
+            <tag> 小说 </tag>
             
         </tags>
         
@@ -265,9 +265,9 @@
         
         <tags>
             
-            <tag> 小说 </tag>
-            
             <tag> 小木的日常 </tag>
+            
+            <tag> 小说 </tag>
             
         </tags>
         
@@ -368,26 +368,26 @@
   
     
     <entry>
-      <title><![CDATA[小木是什么鬼]]></title>
-      <url>/about/index.html</url>
-      <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script>]]></content>
-    </entry>
-    
-    <entry>
       <title><![CDATA[categories]]></title>
       <url>/categories/index.html</url>
       <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script>]]></content>
     </entry>
     
     <entry>
-      <title><![CDATA[投喂]]></title>
-      <url>/%E6%8A%95%E5%96%82/index.html</url>
+      <title><![CDATA[小木是什么鬼]]></title>
+      <url>/about/index.html</url>
       <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script>]]></content>
     </entry>
     
     <entry>
       <title><![CDATA[音乐]]></title>
       <url>/%E9%9F%B3%E4%B9%90/index.html</url>
+      <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script>]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[投喂]]></title>
+      <url>/%E6%8A%95%E5%96%82/index.html</url>
       <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script>]]></content>
     </entry>
     
